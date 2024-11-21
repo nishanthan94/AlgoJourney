@@ -39,7 +39,8 @@ java ProblemName
 - Any Java IDE (IntelliJ IDEA recommended)
 
 ## Progress Tracker
-- [✅] Arrays & Strings
+- [x] Arrays & Strings
+- [x] Hashing
 - [ ] Linked Lists
 - [ ] Stacks & Queues
 - [ ] Trees & Graphs
