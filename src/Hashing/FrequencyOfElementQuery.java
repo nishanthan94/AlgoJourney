@@ -1,9 +1,11 @@
-import java.util.*;
+package Hashing;
 
-public class Solution {
+import java.util.HashMap;
+
+public class FrequencyOfElementQuery {
     /**
      * Finds frequency of elements from array B in array A
-     * 
+     *
      * @param A Array containing participant IDs
      * @param B Array of learners to check frequency for
      * @return Array containing frequencies of elements from B in A

@@ -1,9 +1,11 @@
+package Hashing;
+
 import java.util.*;
 
-public class Solution {
+public class CheckPairSum {
     /**
      * Checks if there exists a pair in array B that sums to target A
-     * 
+     *
      * @param A Target sum to find
      * @param B Input array of integers
      * @return 1 if pair exists, 0 otherwise

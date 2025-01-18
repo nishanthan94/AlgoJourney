@@ -1,9 +1,11 @@
-import java.util.*;
+package Hashing;
 
-public class Solution {
+import java.util.HashSet;
+
+public class CountDistinctElements {
     /**
      * Counts number of unique elements in an array using HashSet
-     * 
+     *
      * @param A Input array of integers
      * @return Number of unique elements
      *         Time Complexity: O(n) - where n is length of array

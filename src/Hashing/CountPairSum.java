@@ -1,8 +1,11 @@
-import java.util.*;
-public class Solution {
+package Hashing;
+
+import java.util.HashMap;
+
+public class CountPairSum {
     /**
      * Counts number of pairs that sum to target B
-     * 
+     *
      * @param A Array of integers
      * @param B Target sum
      * @return Count of valid pairs modulo 10^9+7
